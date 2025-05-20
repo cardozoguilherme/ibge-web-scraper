@@ -36,8 +36,8 @@ OBS.: As seções "Saúde" e "Meio Ambiente" não foram encontradas no site.
 1. Clone este repositório:
 
 ```bash
-git clone
-cd
+https://github.com/cardozoguilherme/ibge-web-scraper.git
+cd ibge-web-scraper
 ```
 
 2. Instale as dependências do Python:
