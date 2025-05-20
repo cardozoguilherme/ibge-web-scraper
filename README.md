@@ -36,7 +36,7 @@ OBS.: As seções "Saúde" e "Meio Ambiente" não foram encontradas no site.
 1. Clone este repositório:
 
 ```bash
-https://github.com/cardozoguilherme/ibge-web-scraper.git
+git clone https://github.com/cardozoguilherme/ibge-web-scraper.git
 cd ibge-web-scraper
 ```
 
